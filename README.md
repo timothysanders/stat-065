@@ -17,6 +17,7 @@ PCC STAT-065 Statistical Programming
 - [Lab 3.1 Measure of Central Tendency and Elements of Visualization 2 - Histogram](notebooks/Sanders%20WS-LAB%203.1%20Measure%20of%20Central%20Tendency%20and%20Elements%20of%20Visualization%202%20-%20Histogram.ipynb)
 - [Lab 3.2 Measure of Data Location and Elements of Data Visualization 3 - Scatter Plots](notebooks/Sanders%20WS-LAB%203.2%20Measure%20of%20Data%20Location%20and%20Elements%20of%20Data%20Visualization%203%20-%20Scatter%20Plots.ipynb)
 - [Lab 3.3 Measure of Data Spread and Elements of Visualization 4 - Time Series](notebooks/Sanders%20WS-LAB%203.3%20Measure%20of%20Data%20Spread%20and%20Elements%20of%20Visualization%204%20-%20Time%20Series.ipynb)
+- [Lab 3.4 Data Summary Table and Elements of Visualization Boxplots](notebooks/Sanders%20WS-LAB%203.4%20Data%20Summary%20Table%20and%20Elements%20of%20Visualization%20Boxplots.ipynb)
 #### Lab 4: Probability Distributions of Random Variables
 - Week 6
 - Week 7
