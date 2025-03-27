@@ -19,6 +19,7 @@ PCC STAT-065 Statistical Programming
 - [Lab 3.3 Measure of Data Spread and Elements of Visualization 4 - Time Series](notebooks/Sanders%20WS-LAB%203.3%20Measure%20of%20Data%20Spread%20and%20Elements%20of%20Visualization%204%20-%20Time%20Series.ipynb)
 - [Lab 3.4 Data Summary Table and Elements of Visualization Boxplots](notebooks/Sanders%20WS-LAB%203.4%20Data%20Summary%20Table%20and%20Elements%20of%20Visualization%20Boxplots.ipynb)
 #### Lab 4: Probability Distributions of Random Variables
+- [Lab 4.1 Binomial Discrete Random Variables and Probability Distributions](notebooks/Sanders%20WS-LAB%204.1%20Binomial%20Discrete%20Random%20Variables%20and%20Probability%20Distributions.ipynb)
 - Week 6
 - Week 7
 #### Lab 5: Statistical Hypothesis Testing
