@@ -20,6 +20,8 @@ PCC STAT-065 Statistical Programming
 - [Lab 3.4 Data Summary Table and Elements of Visualization Boxplots](notebooks/Sanders%20WS-LAB%203.4%20Data%20Summary%20Table%20and%20Elements%20of%20Visualization%20Boxplots.ipynb)
 #### Lab 4: Probability Distributions of Random Variables
 - [Lab 4.1 Binomial Discrete Random Variables and Probability Distributions](notebooks/Sanders%20WS-LAB%204.1%20Binomial%20Discrete%20Random%20Variables%20and%20Probability%20Distributions.ipynb)
+- [Lab 4.2 Continuous Probability Density Functions Part I - Normal Distribution](notebooks/Sanders%20WS-LAB%204.2%20Continuous%20Probability%20Density%20Functions%20Part%20I%20-%20Normal%20Distribution.ipynb)
+- [Lab 4.2 Continuous Probability Density Functions Part II - Student's t Distribution](notebooks/Sanders%20WS-LAB%204.2%20Continuous%20Probability%20Density%20Functions%20Part%20II%20-%20Student's%20t%20Distribution.ipynb)
 - Week 6
 - Week 7
 #### Lab 5: Statistical Hypothesis Testing
