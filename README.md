@@ -3,29 +3,36 @@ PCC STAT-065 Statistical Programming
 
 ## Labs
 #### Lab 1: Jupyter Notebook in Colab and Python Basics
-- [Lab 1.0 Jupyter Notebook and Google Colab](notebooks/Sanders%20WS-LAB%201.0%20Jupyter%20Notebook%20and%20Google%20Colab.ipynb)
-- [Lab 1.1 Python Basic - Variables, Data Types, Strings, and Operators](notebooks/Sanders%20WS-LAB%201.1%20Python%20Basic%20-%20Variables,%20Data%20Types,%20Strings,%20and%20Operators.ipynb)
-- [Lab 1.2 Python Basic - Numbers, Conditions, Lists, and Loops](notebooks/Sanders%20WS-LAB%201.2%20Python%20Basic%20-%20Numbers,%20Conditions,%20Lists,%20and%20Loops.ipynb)
-- [Lab 1.3 Common Errors and How to Fix Them](notebooks/Sanders%20WS-LAB%201.3%20Common%20Errors%20and%20How%20to%20Fix%20Them.ipynb)
+- [Lab 1.0 Jupyter Notebook and Google Colab](notebooks/Sanders-WS-LAB-1.0-Jupyter-Notebook-and-Google-Colab.ipynb)
+- [Lab 1.1 Python Basic - Variables, Data Types, Strings, and Operators](notebooks/Sanders-WS-LAB-1.1-Python-Basic-Variables-Data-Types-Strings-and-Operators.ipynb)
+- [Lab 1.2 Python Basic - Numbers, Conditions, Lists, and Loops](notebooks/Sanders-WS-LAB-1.2-Python-Basic-Numbers-Conditions-Lists-and-Loops.ipynb)
+- [Lab 1.3 Common Errors and How to Fix Them](notebooks/Sanders-WS-LAB-1.3-Common-Errors-and-How-to-Fix-Them.ipynb)
 #### Lab 2: Data, DataFrames and Simple Sampling
-- [Lab 2.1 Data Structures and Data Sets](notebooks/Sanders%20WS-LAB%202.1%20Data%20Structures%20and%20Data%20Sets.ipynb)
-- [Lab 2.2 Simple Random Sampling](notebooks/Sanders%20WS-LAB%202.2%20Simple%20Random%20Sampling.ipynb)
-- [Lab 2.3 Operations with Pandas Data Frame](notebooks/Sanders%20WS-LAB%202.3%20Operations%20with%20pandas%20Data%20Frame.ipynb)
-- [Lab 2.4 Frequency and Contingency Tables](notebooks/Sanders%20WS-LAB%202.4%20Frequency%20and%20Contingency%20Tables.ipynb)
-- [Lab 2.5 Elements of Data Visualization 1 - Bar and Pie Charts](notebooks/Sanders%20WS-LAB%202.5%20Elements%20of%20Data%20Visualization%201%20-%20Bar%20and%20Pie%20Charts.ipynb)
+- [Lab 2.1 Data Structures and Data Sets](notebooks/Sanders-WS-LAB-2.1-Data-Structures-and-Data-Sets.ipynb)
+- [Lab 2.2 Simple Random Sampling](notebooks/Sanders-WS-LAB-2.2-Simple-Random-Sampling.ipynb)
+- [Lab 2.3 Operations with Pandas Data Frame](notebooks/Sanders-WS-LAB-2.3-Operations-with-pandas-Data-Frame.ipynb)
+- [Lab 2.4 Frequency and Contingency Tables](notebooks/Sanders-WS-LAB-2.4-Frequency-and-Contingency-Tables.ipynb)
+- [Lab 2.5 Elements of Data Visualization 1 - Bar and Pie Charts](notebooks/Sanders-WS-LAB-2.5-Elements-of-Data-Visualization-1-Bar-and-Pie-Charts.ipynb)
 #### Lab 3: Descriptive Statistics
-- [Lab 3.1 Measure of Central Tendency and Elements of Visualization 2 - Histogram](notebooks/Sanders%20WS-LAB%203.1%20Measure%20of%20Central%20Tendency%20and%20Elements%20of%20Visualization%202%20-%20Histogram.ipynb)
-- [Lab 3.2 Measure of Data Location and Elements of Data Visualization 3 - Scatter Plots](notebooks/Sanders%20WS-LAB%203.2%20Measure%20of%20Data%20Location%20and%20Elements%20of%20Data%20Visualization%203%20-%20Scatter%20Plots.ipynb)
-- [Lab 3.3 Measure of Data Spread and Elements of Visualization 4 - Time Series](notebooks/Sanders%20WS-LAB%203.3%20Measure%20of%20Data%20Spread%20and%20Elements%20of%20Visualization%204%20-%20Time%20Series.ipynb)
-- [Lab 3.4 Data Summary Table and Elements of Visualization Boxplots](notebooks/Sanders%20WS-LAB%203.4%20Data%20Summary%20Table%20and%20Elements%20of%20Visualization%20Boxplots.ipynb)
+- [Lab 3.1 Measure of Central Tendency and Elements of Visualization 2 - Histogram](notebooks/Sanders-WS-LAB-3.1-Measure-of-Central-Tendency-and-Elements-of-Visualization-2-Histogram.ipynb)
+- [Lab 3.2 Measure of Data Location and Elements of Data Visualization 3 - Scatter Plots](notebooks/Sanders-WS-LAB-3.2-Measure-of-Data-Location-and-Elements-of-Data-Visualization-3-Scatter-Plots.ipynb)
+- [Lab 3.3 Measure of Data Spread and Elements of Visualization 4 - Time Series](notebooks/Sanders-WS-LAB-3.3-Measure-of-Data-Spread-and-Elements-of-Visualization-4-Time-Series.ipynb)
+- [Lab 3.4 Data Summary Table and Elements of Visualization Boxplots](notebooks/Sanders-WS-LAB-3.4-Data-Summary-Table-and-Elements-of-Visualization-Boxplots.ipynb)
 #### Lab 4: Probability Distributions of Random Variables
-- [Lab 4.1 Binomial Discrete Random Variables and Probability Distributions](notebooks/Sanders%20WS-LAB%204.1%20Binomial%20Discrete%20Random%20Variables%20and%20Probability%20Distributions.ipynb)
-- [Lab 4.2 Continuous Probability Density Functions Part I - Normal Distribution](notebooks/Sanders%20WS-LAB%204.2%20Continuous%20Probability%20Density%20Functions%20Part%20I%20-%20Normal%20Distribution.ipynb)
-- [Lab 4.2 Continuous Probability Density Functions Part II - Student's t Distribution](notebooks/Sanders%20WS-LAB%204.2%20Continuous%20Probability%20Density%20Functions%20Part%20II%20-%20Student's%20t%20Distribution.ipynb)
-- Week 6
-- Week 7
+- [Lab 4.1 Binomial Discrete Random Variables and Probability Distributions](notebooks/Sanders-WS-LAB-4.1-Binomial-Discrete-Random-Variables-and-Probability-Distributions.ipynb)
+- [Lab 4.2 Continuous Probability Density Functions Part I - Normal Distribution](notebooks/Sanders-WS-LAB-4.2-Continuous-Probability-Density-Functions-Part-I-Normal-Distribution.ipynb)
+- [Lab 4.2 Continuous Probability Density Functions Part II - Student's t Distribution](notebooks/Sanders-WS-LAB-4.2-Continuous-Probability-Density-Functions-Part-II-Students-t-Distribution.ipynb)
+- [Lab 4.2 Continuous Probability Density Functions Part III - Chi-Square and F](notebooks/Sanders-WS-LAB-4.2-Continuous-Probability-Density-Functions-Part-III-Chi-Square-and-F.ipynb)
+- [Lab 4.3 Compute Probability of Random Variables with CDF Part I - Normal Distribution](notebooks/Sanders-WS-LAB-4.3-Compute-Probability-of-Random-Variables-with-CDF-Part-I-Normal-Distributions.ipynb)
+- [Lab 4.3 Compute Probability of Random Variables with CDF Part II - Normal Distributions](notebooks/Sanders-WS-LAB-4.3-Compute-Probability-of-Random-Variables-with-CDF-Part-II-Normal-Distributions.ipynb)
+- [Lab 4.3 Compute Probability of Random Variables with CDF Part III - Student's t, Chi-Squared and F Distributions](notebooks/Sanders-WS-LAB-4.3-Compute-Probability-of-Random-Variables-with-CDF-Part-III-Students-t-Chi-Squared-and-f-Distributions.ipynb)
+- [Lab 4.4 Random Probability Sampling from Distributions](notebooks/Sanders-WS-LAB-4.4-Random-Probability-Sampling-from-Distributions.ipynb)
 #### Lab 5: Statistical Hypothesis Testing
-- Week 8
+- [Lab 5.0 Introduction to Hypothesis Testing](notebooks/Sanders-WS-LAB-5.0-Introduction-to-Hypothesis-Testing.ipynb)
+- [Lab 5.1 Confidence Intervals](notebooks/Sanders-WS-LAB-5.1-Confidence-Intervals.ipynb)
+- [Lab 5.2 One Sample Mean Based t Hypothesis Test](notebooks/Sanders-WS-LAB-5.2-One-Sample-Mean-Based-t-Hypothesis-Test.ipynb)
+- [Lab 5.3 One Sample Proportion Based Z Hypothesis Test](notebooks/Sanders-WS-LAB-5.3-One-Sample-Proportion-Based-Z-Hypothesis-Test.ipynb)
+- [Lab 5.4 Two Samples Proportion Based Z Test](notebooks/Sanders-WS-LAB-5.4-Two-Samples-Proportion-Based-Z-Test.ipynb)
 - Week 9
 - Week 10
 - Week 11
@@ -35,3 +42,8 @@ PCC STAT-065 Statistical Programming
 - Week 14
 - Week 15
 #### Extra Labs
+- [Programming in Python - Numbers](notebooks/Sanders-WS-Programming-in-Python-Numbers.ipynb)
+- [Programming in Python - Strings](notebooks/Sanders-WS-Programming-in-Python-Strings.ipynb)
+- [Programming in Python - Variable Containers](notebooks/Sanders-WS-Programming-in-Python-Variable-containers.ipynb)
+- [Programming in Python - Logic](notebooks/Sanders-WS-Programming-in-Python-Logic.ipynb)
+- [Programming in Python - Conditionals](notebooks/Sanders-WS-Programming-in-Python-Conditionals.ipynb)
