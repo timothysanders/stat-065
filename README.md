@@ -33,6 +33,7 @@ PCC STAT-065 Statistical Programming
 - [Lab 5.2 One Sample Mean Based t Hypothesis Test](notebooks/Sanders-WS-LAB-5.2-One-Sample-Mean-Based-t-Hypothesis-Test.ipynb)
 - [Lab 5.3 One Sample Proportion Based Z Hypothesis Test](notebooks/Sanders-WS-LAB-5.3-One-Sample-Proportion-Based-Z-Hypothesis-Test.ipynb)
 - [Lab 5.4 Two Samples Proportion Based Z Test](notebooks/Sanders-WS-LAB-5.4-Two-Samples-Proportion-Based-Z-Test.ipynb)
+- [Lab 5.5 Two Independent Samples Mean-Based t Hypothesis Test](notebooks/Sanders-WS-LAB-5.5-Two-Independent-Samples-Mean-Based-t-Hypothesis-Test.ipynb)
 - Week 9
 - Week 10
 - Week 11
